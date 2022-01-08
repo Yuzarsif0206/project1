@@ -1,1 +1,1 @@
-{\rtf1}
+# Front End Patikası Ödev 1
